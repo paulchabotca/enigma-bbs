@@ -3,7 +3,7 @@ layout: page
 title: Message Networks
 ---
 ## Message Networks
-ENiGMA½ considers all non-ENiGMA½, non-local messages (and their networks, such as FTN "external". That is, messages are only imported and exported from/to such a networks. Configuring such external message networks in ENiGMA½ requires three sections in your `config.hjson`.
+ENiGMA½ considers all non-ENiGMA½, non-local messages (and their networks, such as FTN "external"). That is, messages are only imported and exported from/to such a networks. Configuring such external message networks in ENiGMA½ requires three sections in your `config.hjson`.
 
 1. `messageNetworks.<networkType>.networks`: declares available networks.
 2. `messageNetworks.<networkType>.areas`: establishes local area mappings and per-area specifics.
